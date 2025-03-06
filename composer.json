@@ -1,0 +1,17 @@
+{
+    "name": "alrusso42/skeleton",
+    "description": "Squelette Symfony personnalisé",
+    "require": {
+        "php": ">=7.4",
+        "symfony/skeleton": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alrusso",
+            "email": "alrusso@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
